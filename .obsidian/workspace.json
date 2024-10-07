@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开端/计算开端.md",
+                "file": "伊始/计算伊始.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开端/计算开端.md",
+                "file": "伊始/计算伊始.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开端/计算开端.md",
+                "file": "伊始/计算伊始.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "开端/计算开端.md",
+                "file": "伊始/计算伊始.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开端/计算开端.md"
+                "file": "伊始/计算伊始.md"
               }
             }
           }
@@ -177,10 +177,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8e53d9e9937de73f",
+  "active": "0d9cb0c889126bde",
   "lastOpenFiles": [
     "伊始/伊始之伊始.md",
-    "开端/计算开端.md",
+    "伊始/计算伊始.md",
     "伊始",
     "README.md",
     "开端"
