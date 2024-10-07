@@ -4,38 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c5d94862043a79ea",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b1c98f6cab21aee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e53d9e9937de73f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "伊始/计算伊始.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8e77af50c7515136",
+        "id": "c67dd25d611e89ee",
         "type": "tabs",
         "children": [
           {
@@ -45,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "伊始/计算伊始.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -100,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 214.5,
+    "collapsed": true
   },
   "right": {
     "id": "9ec8af2e5791114b",
@@ -177,12 +147,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0d9cb0c889126bde",
+  "active": "6eaee2337a557993",
   "lastOpenFiles": [
     "伊始/伊始之伊始.md",
     "伊始/计算伊始.md",
-    "伊始",
     "README.md",
+    "伊始",
     "开端"
   ]
 }
