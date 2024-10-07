@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "65769aa63e5ce754",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5d94862043a79ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1c98f6cab21aee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e53d9e9937de73f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开端/计算开端.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8e77af50c7515136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eaee2337a557993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开端/计算开端.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "566bdc2a890bfbff",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b68e775be760ec2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9cb0c889126bde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a4daba410d6cfb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fd7af3d286b9365",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ec8af2e5791114b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e9e5e903ae593e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233937793a45a337",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "开端/计算开端.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46b4f4996d009970",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "开端/计算开端.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59f5706e988ed370",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ab35ca32762dc97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "开端/计算开端.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8e53d9e9937de73f",
+  "lastOpenFiles": [
+    "伊始/伊始之伊始.md",
+    "开端/计算开端.md",
+    "伊始",
+    "README.md",
+    "开端"
+  ]
+}
