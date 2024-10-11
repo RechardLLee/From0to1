@@ -163,12 +163,21 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "publish:发布更改": false,
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "fea35f69ecda0071",
   "lastOpenFiles": [
+    "伊始/History of Computer Science.html.baiduyun.uploading.cfg",
+    "伊始/计算伊始.md.baiduyun.uploading.cfg",
+    "伊始/伊始之伊始.md.baiduyun.uploading.cfg",
+    "伊始/attachments/Step Reckoner.png.baiduyun.uploading.cfg",
+    "伊始/attachments/Jacquard loom.png.baiduyun.uploading.cfg",
+    "伊始/attachments/Difference Engine.png.baiduyun.uploading.cfg",
+    "伊始/attachments/Calculating Clock.png.baiduyun.uploading.cfg",
+    "伊始/attachments/Arithmetic Machine, or Pascaline.png.baiduyun.uploading.cfg",
+    "伊始/attachments/Analytical Engine.png.baiduyun.uploading.cfg",
+    "README.md.baiduyun.uploading.cfg",
     "伊始/attachments/Analytical Engine.png",
     "伊始/attachments/Difference Engine.png",
     "伊始/attachments/Jacquard loom.png",
@@ -178,11 +187,7 @@
     "伊始/attachments",
     "Pasted image 20241008214943.png",
     "伊始/计算伊始.md",
-    "伊始/History of Computer Science.html",
-    "伊始/未确认 279284.crdownload",
     "伊始/伊始之伊始.md",
-    "README.md",
-    "伊始",
-    "开端"
+    "README.md"
   ]
 }
