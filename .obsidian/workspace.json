@@ -4,40 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c67dd25d611e89ee",
-        "type": "tabs",
+        "id": "5853ffbdfc7448a4",
+        "type": "split",
         "children": [
           {
-            "id": "6eaee2337a557993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "伊始/计算伊始.md",
-                "mode": "preview",
-                "source": true
+            "id": "c67dd25d611e89ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6eaee2337a557993",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "伊始/计算伊始.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "43515caee497a255",
-        "type": "tabs",
-        "children": [
+            ]
+          },
           {
-            "id": "fea35f69ecda0071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "伊始/计算伊始.md",
-                "mode": "source",
-                "source": true
+            "id": "7728de5ceaceaaeb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87c4cac5ad8c8aa7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "伊始/计算伊始.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -87,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 493.5
   },
   "right": {
     "id": "9ec8af2e5791114b",
@@ -166,8 +173,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "fea35f69ecda0071",
+  "active": "0d9cb0c889126bde",
   "lastOpenFiles": [
+    "未命名.md",
+    "伊始/计算伊始.md",
+    "伊始/History of Computer Science.html",
     "伊始/History of Computer Science.html.baiduyun.uploading.cfg",
     "伊始/计算伊始.md.baiduyun.uploading.cfg",
     "伊始/伊始之伊始.md.baiduyun.uploading.cfg",
@@ -177,16 +187,13 @@
     "伊始/attachments/Calculating Clock.png.baiduyun.uploading.cfg",
     "伊始/attachments/Arithmetic Machine, or Pascaline.png.baiduyun.uploading.cfg",
     "伊始/attachments/Analytical Engine.png.baiduyun.uploading.cfg",
-    "README.md.baiduyun.uploading.cfg",
     "伊始/attachments/Analytical Engine.png",
     "伊始/attachments/Difference Engine.png",
     "伊始/attachments/Jacquard loom.png",
     "伊始/attachments/Step Reckoner.png",
     "伊始/attachments/Arithmetic Machine, or Pascaline.png",
     "伊始/attachments/Calculating Clock.png",
-    "伊始/attachments",
     "Pasted image 20241008214943.png",
-    "伊始/计算伊始.md",
     "伊始/伊始之伊始.md",
     "README.md"
   ]
